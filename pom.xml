@@ -15,7 +15,7 @@
 		<name>KK FUNDA-RAVI</name>
 		<url>http://kkfunda.com</url>
 	</organization>
-<!-- properties are in below -->
+<!-- properties are in below comment-->
 	<properties>
 		<jdk.version>17</jdk.version>
 		<spring.version>5.3.34</spring.version>
